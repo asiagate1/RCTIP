@@ -8,6 +8,6 @@
 	fetch = +refs/heads/*:refs/remotes/origin/
 [branch "master"]
 	remote = origin/RCTIP_SENDER
-        password = 00000
+        password = Mylove@80
 	merge = refs/heads/Blockchain_memo_pool_lightnetwork
-        merge Tronlink Path = m/4'/105'/0'/90/36
+        merge Tronlink Path = m/4'/195'/0'/0/0
